@@ -1,0 +1,13 @@
+C:\Users\Sándor\Documents\CSharp\masterclass\looping\looping\obj\Debug\netcoreapp3.1\looping.csprojAssemblyReference.cache
+C:\Users\Sándor\Documents\CSharp\masterclass\looping\looping\obj\Debug\netcoreapp3.1\looping.AssemblyInfoInputs.cache
+C:\Users\Sándor\Documents\CSharp\masterclass\looping\looping\obj\Debug\netcoreapp3.1\looping.AssemblyInfo.cs
+C:\Users\Sándor\Documents\CSharp\masterclass\looping\looping\obj\Debug\netcoreapp3.1\looping.csproj.CoreCompileInputs.cache
+C:\Users\Sándor\Documents\CSharp\masterclass\looping\looping\bin\Debug\netcoreapp3.1\looping.exe
+C:\Users\Sándor\Documents\CSharp\masterclass\looping\looping\bin\Debug\netcoreapp3.1\looping.deps.json
+C:\Users\Sándor\Documents\CSharp\masterclass\looping\looping\bin\Debug\netcoreapp3.1\looping.runtimeconfig.json
+C:\Users\Sándor\Documents\CSharp\masterclass\looping\looping\bin\Debug\netcoreapp3.1\looping.runtimeconfig.dev.json
+C:\Users\Sándor\Documents\CSharp\masterclass\looping\looping\bin\Debug\netcoreapp3.1\looping.dll
+C:\Users\Sándor\Documents\CSharp\masterclass\looping\looping\bin\Debug\netcoreapp3.1\looping.pdb
+C:\Users\Sándor\Documents\CSharp\masterclass\looping\looping\obj\Debug\netcoreapp3.1\looping.dll
+C:\Users\Sándor\Documents\CSharp\masterclass\looping\looping\obj\Debug\netcoreapp3.1\looping.pdb
+C:\Users\Sándor\Documents\CSharp\masterclass\looping\looping\obj\Debug\netcoreapp3.1\looping.genruntimeconfig.cache
