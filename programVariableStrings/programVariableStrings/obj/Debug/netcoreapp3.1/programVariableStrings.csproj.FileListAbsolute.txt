@@ -1,0 +1,13 @@
+C:\Users\Sándor\Documents\CSharp\masterclass\programVariableStrings\programVariableStrings\obj\Debug\netcoreapp3.1\programVariableStrings.csprojAssemblyReference.cache
+C:\Users\Sándor\Documents\CSharp\masterclass\programVariableStrings\programVariableStrings\obj\Debug\netcoreapp3.1\programVariableStrings.AssemblyInfoInputs.cache
+C:\Users\Sándor\Documents\CSharp\masterclass\programVariableStrings\programVariableStrings\obj\Debug\netcoreapp3.1\programVariableStrings.AssemblyInfo.cs
+C:\Users\Sándor\Documents\CSharp\masterclass\programVariableStrings\programVariableStrings\obj\Debug\netcoreapp3.1\programVariableStrings.csproj.CoreCompileInputs.cache
+C:\Users\Sándor\Documents\CSharp\masterclass\programVariableStrings\programVariableStrings\bin\Debug\netcoreapp3.1\programVariableStrings.exe
+C:\Users\Sándor\Documents\CSharp\masterclass\programVariableStrings\programVariableStrings\bin\Debug\netcoreapp3.1\programVariableStrings.deps.json
+C:\Users\Sándor\Documents\CSharp\masterclass\programVariableStrings\programVariableStrings\bin\Debug\netcoreapp3.1\programVariableStrings.runtimeconfig.json
+C:\Users\Sándor\Documents\CSharp\masterclass\programVariableStrings\programVariableStrings\bin\Debug\netcoreapp3.1\programVariableStrings.runtimeconfig.dev.json
+C:\Users\Sándor\Documents\CSharp\masterclass\programVariableStrings\programVariableStrings\bin\Debug\netcoreapp3.1\programVariableStrings.dll
+C:\Users\Sándor\Documents\CSharp\masterclass\programVariableStrings\programVariableStrings\bin\Debug\netcoreapp3.1\programVariableStrings.pdb
+C:\Users\Sándor\Documents\CSharp\masterclass\programVariableStrings\programVariableStrings\obj\Debug\netcoreapp3.1\programVariableStrings.dll
+C:\Users\Sándor\Documents\CSharp\masterclass\programVariableStrings\programVariableStrings\obj\Debug\netcoreapp3.1\programVariableStrings.pdb
+C:\Users\Sándor\Documents\CSharp\masterclass\programVariableStrings\programVariableStrings\obj\Debug\netcoreapp3.1\programVariableStrings.genruntimeconfig.cache
