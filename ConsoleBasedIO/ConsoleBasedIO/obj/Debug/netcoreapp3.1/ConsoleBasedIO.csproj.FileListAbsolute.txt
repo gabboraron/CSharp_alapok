@@ -1,0 +1,13 @@
+C:\Users\Sándor\Documents\CSharp\masterclass\ConsoleBasedIO\ConsoleBasedIO\bin\Debug\netcoreapp3.1\ConsoleBasedIO.exe
+C:\Users\Sándor\Documents\CSharp\masterclass\ConsoleBasedIO\ConsoleBasedIO\bin\Debug\netcoreapp3.1\ConsoleBasedIO.deps.json
+C:\Users\Sándor\Documents\CSharp\masterclass\ConsoleBasedIO\ConsoleBasedIO\bin\Debug\netcoreapp3.1\ConsoleBasedIO.runtimeconfig.json
+C:\Users\Sándor\Documents\CSharp\masterclass\ConsoleBasedIO\ConsoleBasedIO\bin\Debug\netcoreapp3.1\ConsoleBasedIO.runtimeconfig.dev.json
+C:\Users\Sándor\Documents\CSharp\masterclass\ConsoleBasedIO\ConsoleBasedIO\bin\Debug\netcoreapp3.1\ConsoleBasedIO.dll
+C:\Users\Sándor\Documents\CSharp\masterclass\ConsoleBasedIO\ConsoleBasedIO\bin\Debug\netcoreapp3.1\ConsoleBasedIO.pdb
+C:\Users\Sándor\Documents\CSharp\masterclass\ConsoleBasedIO\ConsoleBasedIO\obj\Debug\netcoreapp3.1\ConsoleBasedIO.csprojAssemblyReference.cache
+C:\Users\Sándor\Documents\CSharp\masterclass\ConsoleBasedIO\ConsoleBasedIO\obj\Debug\netcoreapp3.1\ConsoleBasedIO.AssemblyInfoInputs.cache
+C:\Users\Sándor\Documents\CSharp\masterclass\ConsoleBasedIO\ConsoleBasedIO\obj\Debug\netcoreapp3.1\ConsoleBasedIO.AssemblyInfo.cs
+C:\Users\Sándor\Documents\CSharp\masterclass\ConsoleBasedIO\ConsoleBasedIO\obj\Debug\netcoreapp3.1\ConsoleBasedIO.csproj.CoreCompileInputs.cache
+C:\Users\Sándor\Documents\CSharp\masterclass\ConsoleBasedIO\ConsoleBasedIO\obj\Debug\netcoreapp3.1\ConsoleBasedIO.dll
+C:\Users\Sándor\Documents\CSharp\masterclass\ConsoleBasedIO\ConsoleBasedIO\obj\Debug\netcoreapp3.1\ConsoleBasedIO.pdb
+C:\Users\Sándor\Documents\CSharp\masterclass\ConsoleBasedIO\ConsoleBasedIO\obj\Debug\netcoreapp3.1\ConsoleBasedIO.genruntimeconfig.cache
