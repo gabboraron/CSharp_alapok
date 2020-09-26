@@ -1,0 +1,13 @@
+C:\Users\Sándor\Documents\CSharp\masterclass\variableBooleanAndCompare\variableBooleanAndCompare\bin\Debug\netcoreapp3.1\variableBooleanAndCompare.exe
+C:\Users\Sándor\Documents\CSharp\masterclass\variableBooleanAndCompare\variableBooleanAndCompare\bin\Debug\netcoreapp3.1\variableBooleanAndCompare.deps.json
+C:\Users\Sándor\Documents\CSharp\masterclass\variableBooleanAndCompare\variableBooleanAndCompare\bin\Debug\netcoreapp3.1\variableBooleanAndCompare.runtimeconfig.json
+C:\Users\Sándor\Documents\CSharp\masterclass\variableBooleanAndCompare\variableBooleanAndCompare\bin\Debug\netcoreapp3.1\variableBooleanAndCompare.runtimeconfig.dev.json
+C:\Users\Sándor\Documents\CSharp\masterclass\variableBooleanAndCompare\variableBooleanAndCompare\bin\Debug\netcoreapp3.1\variableBooleanAndCompare.dll
+C:\Users\Sándor\Documents\CSharp\masterclass\variableBooleanAndCompare\variableBooleanAndCompare\bin\Debug\netcoreapp3.1\variableBooleanAndCompare.pdb
+C:\Users\Sándor\Documents\CSharp\masterclass\variableBooleanAndCompare\variableBooleanAndCompare\obj\Debug\netcoreapp3.1\variableBooleanAndCompare.csprojAssemblyReference.cache
+C:\Users\Sándor\Documents\CSharp\masterclass\variableBooleanAndCompare\variableBooleanAndCompare\obj\Debug\netcoreapp3.1\variableBooleanAndCompare.AssemblyInfoInputs.cache
+C:\Users\Sándor\Documents\CSharp\masterclass\variableBooleanAndCompare\variableBooleanAndCompare\obj\Debug\netcoreapp3.1\variableBooleanAndCompare.AssemblyInfo.cs
+C:\Users\Sándor\Documents\CSharp\masterclass\variableBooleanAndCompare\variableBooleanAndCompare\obj\Debug\netcoreapp3.1\variableBooleanAndCompare.csproj.CoreCompileInputs.cache
+C:\Users\Sándor\Documents\CSharp\masterclass\variableBooleanAndCompare\variableBooleanAndCompare\obj\Debug\netcoreapp3.1\variableBooleanAndCompare.dll
+C:\Users\Sándor\Documents\CSharp\masterclass\variableBooleanAndCompare\variableBooleanAndCompare\obj\Debug\netcoreapp3.1\variableBooleanAndCompare.pdb
+C:\Users\Sándor\Documents\CSharp\masterclass\variableBooleanAndCompare\variableBooleanAndCompare\obj\Debug\netcoreapp3.1\variableBooleanAndCompare.genruntimeconfig.cache
