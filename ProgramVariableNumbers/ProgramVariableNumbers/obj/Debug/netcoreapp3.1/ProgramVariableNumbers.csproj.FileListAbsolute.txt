@@ -1,0 +1,13 @@
+C:\Users\Sándor\Documents\CSharp\masterclass\ProgramVariableNumbers\ProgramVariableNumbers\bin\Debug\netcoreapp3.1\ProgramVariableNumbers.exe
+C:\Users\Sándor\Documents\CSharp\masterclass\ProgramVariableNumbers\ProgramVariableNumbers\bin\Debug\netcoreapp3.1\ProgramVariableNumbers.deps.json
+C:\Users\Sándor\Documents\CSharp\masterclass\ProgramVariableNumbers\ProgramVariableNumbers\bin\Debug\netcoreapp3.1\ProgramVariableNumbers.runtimeconfig.json
+C:\Users\Sándor\Documents\CSharp\masterclass\ProgramVariableNumbers\ProgramVariableNumbers\bin\Debug\netcoreapp3.1\ProgramVariableNumbers.runtimeconfig.dev.json
+C:\Users\Sándor\Documents\CSharp\masterclass\ProgramVariableNumbers\ProgramVariableNumbers\bin\Debug\netcoreapp3.1\ProgramVariableNumbers.dll
+C:\Users\Sándor\Documents\CSharp\masterclass\ProgramVariableNumbers\ProgramVariableNumbers\bin\Debug\netcoreapp3.1\ProgramVariableNumbers.pdb
+C:\Users\Sándor\Documents\CSharp\masterclass\ProgramVariableNumbers\ProgramVariableNumbers\obj\Debug\netcoreapp3.1\ProgramVariableNumbers.csprojAssemblyReference.cache
+C:\Users\Sándor\Documents\CSharp\masterclass\ProgramVariableNumbers\ProgramVariableNumbers\obj\Debug\netcoreapp3.1\ProgramVariableNumbers.AssemblyInfoInputs.cache
+C:\Users\Sándor\Documents\CSharp\masterclass\ProgramVariableNumbers\ProgramVariableNumbers\obj\Debug\netcoreapp3.1\ProgramVariableNumbers.AssemblyInfo.cs
+C:\Users\Sándor\Documents\CSharp\masterclass\ProgramVariableNumbers\ProgramVariableNumbers\obj\Debug\netcoreapp3.1\ProgramVariableNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Sándor\Documents\CSharp\masterclass\ProgramVariableNumbers\ProgramVariableNumbers\obj\Debug\netcoreapp3.1\ProgramVariableNumbers.dll
+C:\Users\Sándor\Documents\CSharp\masterclass\ProgramVariableNumbers\ProgramVariableNumbers\obj\Debug\netcoreapp3.1\ProgramVariableNumbers.pdb
+C:\Users\Sándor\Documents\CSharp\masterclass\ProgramVariableNumbers\ProgramVariableNumbers\obj\Debug\netcoreapp3.1\ProgramVariableNumbers.genruntimeconfig.cache
