@@ -1,16 +1,17 @@
 # C# és Visual Studio alapok
 **Tartalom**
-- [Visual Studio]()
-- [`Hello World` program]()
-- [I/O alapok]()
-- [Számok]()
-- [Szövegek]()
-- [Logikai változók és összehasonlítások]()
-- [`if` `then` `else`]()
-- [Cilusok]()
-  - [`For`]()
-  - [`While`]()
-  - [do-while]()
+- [Visual Studio](https://github.com/gabboraron/CSharp_alapok#visual-studio)
+- [`Hello World` program](https://github.com/gabboraron/CSharp_alapok#hello-world)
+- [I/O alapok](https://github.com/gabboraron/CSharp_alapok#io-alapok)
+- [Számok](https://github.com/gabboraron/CSharp_alapok#sz%C3%A1mok)
+- [Szövegek](https://github.com/gabboraron/CSharp_alapok#sz%C3%B6vegek)
+- [Logikai változók és összehasonlítások](https://github.com/gabboraron/CSharp_alapok#logikai-v%C3%A1ltoz%C3%B3k-%C3%A9s-%C3%B6sszehasonl%C3%ADt%C3%A1sok)
+- [`if` `then` `else`](https://github.com/gabboraron/CSharp_alapok#if-then-else)
+- [Cilusok](https://github.com/gabboraron/CSharp_alapok#ciklusok)
+  - [`For`](https://github.com/gabboraron/CSharp_alapok#for)
+  - [`While`](https://github.com/gabboraron/CSharp_alapok#while)
+  - [do-while](https://github.com/gabboraron/CSharp_alapok#do-while)
+- [Példaprogram](https://github.com/gabboraron/CSharp_alapok#p%C3%A9ldaprogram) 
 
 ## Visual Studio
 1. [Letöltés és telepítés](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=16)
