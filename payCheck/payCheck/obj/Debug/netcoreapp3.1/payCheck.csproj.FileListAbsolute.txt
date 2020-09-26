@@ -1,0 +1,13 @@
+C:\Users\Sándor\Documents\CSharp\masterclass\payCheck\payCheck\bin\Debug\netcoreapp3.1\payCheck.exe
+C:\Users\Sándor\Documents\CSharp\masterclass\payCheck\payCheck\bin\Debug\netcoreapp3.1\payCheck.deps.json
+C:\Users\Sándor\Documents\CSharp\masterclass\payCheck\payCheck\bin\Debug\netcoreapp3.1\payCheck.runtimeconfig.json
+C:\Users\Sándor\Documents\CSharp\masterclass\payCheck\payCheck\bin\Debug\netcoreapp3.1\payCheck.runtimeconfig.dev.json
+C:\Users\Sándor\Documents\CSharp\masterclass\payCheck\payCheck\bin\Debug\netcoreapp3.1\payCheck.dll
+C:\Users\Sándor\Documents\CSharp\masterclass\payCheck\payCheck\bin\Debug\netcoreapp3.1\payCheck.pdb
+C:\Users\Sándor\Documents\CSharp\masterclass\payCheck\payCheck\obj\Debug\netcoreapp3.1\payCheck.csprojAssemblyReference.cache
+C:\Users\Sándor\Documents\CSharp\masterclass\payCheck\payCheck\obj\Debug\netcoreapp3.1\payCheck.AssemblyInfoInputs.cache
+C:\Users\Sándor\Documents\CSharp\masterclass\payCheck\payCheck\obj\Debug\netcoreapp3.1\payCheck.AssemblyInfo.cs
+C:\Users\Sándor\Documents\CSharp\masterclass\payCheck\payCheck\obj\Debug\netcoreapp3.1\payCheck.csproj.CoreCompileInputs.cache
+C:\Users\Sándor\Documents\CSharp\masterclass\payCheck\payCheck\obj\Debug\netcoreapp3.1\payCheck.dll
+C:\Users\Sándor\Documents\CSharp\masterclass\payCheck\payCheck\obj\Debug\netcoreapp3.1\payCheck.pdb
+C:\Users\Sándor\Documents\CSharp\masterclass\payCheck\payCheck\obj\Debug\netcoreapp3.1\payCheck.genruntimeconfig.cache
