@@ -1,0 +1,13 @@
+C:\Users\Sándor\Documents\CSharp\masterclass\kiosk\kiosk\bin\Debug\netcoreapp3.1\kiosk.exe
+C:\Users\Sándor\Documents\CSharp\masterclass\kiosk\kiosk\bin\Debug\netcoreapp3.1\kiosk.deps.json
+C:\Users\Sándor\Documents\CSharp\masterclass\kiosk\kiosk\bin\Debug\netcoreapp3.1\kiosk.runtimeconfig.json
+C:\Users\Sándor\Documents\CSharp\masterclass\kiosk\kiosk\bin\Debug\netcoreapp3.1\kiosk.runtimeconfig.dev.json
+C:\Users\Sándor\Documents\CSharp\masterclass\kiosk\kiosk\bin\Debug\netcoreapp3.1\kiosk.dll
+C:\Users\Sándor\Documents\CSharp\masterclass\kiosk\kiosk\bin\Debug\netcoreapp3.1\kiosk.pdb
+C:\Users\Sándor\Documents\CSharp\masterclass\kiosk\kiosk\obj\Debug\netcoreapp3.1\kiosk.csprojAssemblyReference.cache
+C:\Users\Sándor\Documents\CSharp\masterclass\kiosk\kiosk\obj\Debug\netcoreapp3.1\kiosk.AssemblyInfoInputs.cache
+C:\Users\Sándor\Documents\CSharp\masterclass\kiosk\kiosk\obj\Debug\netcoreapp3.1\kiosk.AssemblyInfo.cs
+C:\Users\Sándor\Documents\CSharp\masterclass\kiosk\kiosk\obj\Debug\netcoreapp3.1\kiosk.csproj.CoreCompileInputs.cache
+C:\Users\Sándor\Documents\CSharp\masterclass\kiosk\kiosk\obj\Debug\netcoreapp3.1\kiosk.dll
+C:\Users\Sándor\Documents\CSharp\masterclass\kiosk\kiosk\obj\Debug\netcoreapp3.1\kiosk.pdb
+C:\Users\Sándor\Documents\CSharp\masterclass\kiosk\kiosk\obj\Debug\netcoreapp3.1\kiosk.genruntimeconfig.cache
