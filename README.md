@@ -1,4 +1,6 @@
 # C# és Visual Studio alapok
+> Könyv: [Reiter István C# programozás  lépésről lépésre](https://github.com/gabboraron/CSharp_alapok/blob/master/Cshprogramozas.pdf)
+
 **Tartalom**
 - [Visual Studio](https://github.com/gabboraron/CSharp_alapok#visual-studio)
 - [`Hello World` program](https://github.com/gabboraron/CSharp_alapok#hello-world)
