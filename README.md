@@ -7,10 +7,12 @@
 - [Szövegek](https://github.com/gabboraron/CSharp_alapok#sz%C3%B6vegek)
 - [Logikai változók és összehasonlítások](https://github.com/gabboraron/CSharp_alapok#logikai-v%C3%A1ltoz%C3%B3k-%C3%A9s-%C3%B6sszehasonl%C3%ADt%C3%A1sok)
 - [`if` `then` `else`](https://github.com/gabboraron/CSharp_alapok#if-then-else)
+- [`switch`-`case`](https://github.com/gabboraron/CSharp_alapok#switch-case)
 - [Cilusok](https://github.com/gabboraron/CSharp_alapok#ciklusok)
   - [`For`](https://github.com/gabboraron/CSharp_alapok#for)
   - [`While`](https://github.com/gabboraron/CSharp_alapok#while)
   - [do-while](https://github.com/gabboraron/CSharp_alapok#do-while)
+- [y = x^2 grafikonja](https://github.com/gabboraron/CSharp_alapok#y--x2-grafikonja)  
 - [Példaprogram](https://github.com/gabboraron/CSharp_alapok#p%C3%A9ldaprogram) 
 
 ## Visual Studio
@@ -196,6 +198,25 @@ fájl: [payCheck](https://github.com/gabboraron/CSharp_alapok/tree/master/payChe
             }
 ```
 
+## `switch`-`case`
+bővebben: https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/switch
+```C#
+      int caseSwitch = 1;
+
+      switch (caseSwitch)
+      {
+          case 1:
+              Console.WriteLine("Case 1");
+              break;
+          case 2:
+              Console.WriteLine("Case 2");
+              break;
+          default:
+              Console.WriteLine("Default case");
+              break;
+      }
+```
+
 ## Ciklusok
 fájl:[looping](https://github.com/gabboraron/CSharp_alapok/tree/master/looping)
 ### For
@@ -221,7 +242,7 @@ fájl:[looping](https://github.com/gabboraron/CSharp_alapok/tree/master/looping)
                 length++;
             } while (length<5);
 ```
-### y = x^2 gráfja
+### y = x^2 grafikonja
 > `-15` és `+15` között az x értéke a `y = x^2` egyenletre
 >
 > hogy beleférjen az ablakba lekicsinyítjük: `225 * x = 80` => `x = .3555`
@@ -269,5 +290,7 @@ kimenet:
                                                                       *
 
 ```
+
 ## Példaprogram
-fál: []()
+fál: [kiosk](https://github.com/gabboraron/CSharp_alapok/tree/master/kiosk)
+> Egy egyszerű programocska, választó menükkel, stb.
