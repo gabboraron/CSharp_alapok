@@ -1,13 +1,83 @@
 # C# és Visual Studio alapok
 > Könyv: [Reiter István C# programozás  lépésről lépésre](https://github.com/gabboraron/CSharp_alapok/blob/master/Cshprogramozas.pdf)
 
+> - szemétgyűjtőt használ
+> - A legtöbb objektum-hozzáférés csak biztonságos hivatkozásokon keresztül tehető meg, és az aritmetikai műveletek debug módban túlcsordulás szempontjából ellenőrzöttek.
+> - a szemétgyűjtő szabadítja fel az objektumokat, mikor már nincs rájuk hivatkozás
+> - destruktorok (`~`) elérhetőek. A megfelelően megírt `IDisposable` interfész (Disposable programozási minta), aminek a lefutását garantálja using blokk, együtt kikényszerítheti az azonnali felszabadítást az osztályon belüli natív erőforrások esetében. A nem natív erőforrások felszabadítását ebben az esetben is a szemétgyűjtő (Garbage Collector) végzi. A finalizerek szintén rendelkezésre állnak, de nem váltanak ki azonnali felszabadítást.
+> - csak egyszeres öröklődést támogat, de egy osztály több interfészt is megvalósíthat
+> - Az egyetlen implicit konverzió a biztonságos konverzió, úgy mint az egészek tágabb intervallumba konvertálása vagy a leszármazott osztályok alaposztályba konvertálása. Nincs implicit konverzió az egészek és a logikai típus (`boolean`) között, a felsorolás tagok és az egészek között. Nincsenek void mutatók (bár az Object osztályra mutató mutatók hasonlóak), valamint bármely, a felhasználó által definiált implicit konverziót explicit módon meg kell jelölni.
+> - felsorolás adattagjai a saját névtérben
+> - 2.0+ rendelkezik a generikus programozás néhány eszközével
+> - alapértelmezett láthatósága `private`
+> -  kód névterekbe van rendezve, mely a hasonló funkciót ellátó osztályokat fogja össze. Például `System.Drawing` a grafikai, `System.Collections` az adatstruktúra és `System.Windows.Forms` a Windows ablakos megjelenítéséért felelős funkciókat fogja össze.
+> - sorok vége `;`
+> - Namespaces are named using Pascal Case (also called `UpperCamelCase`)
+> - If an assembly contains only one namespace, the assembly and the namespace should use the same name. Otherwise, assemblies should follow the normal Pascal Case format.
+> - kivételek a `System.Exception` -ből származnak le
+> - aming conventions combined.
+```C#
+    using System;
+     
+    namespace MyExampleNamespace
+    {
+        public class Customer : IDisposable
+        {
+            private string _customerName;
+            public string CustomerName 
+            { 
+                get 
+                { 
+                    return _customerName; 
+                }
+                set
+                {
+                    _customerName = value;
+                    _lastUpdated = DateTime.Now;
+                }
+            }
+     
+            private DateTime _lastUpdated;
+     
+            public DateTime LastUpdated
+            {
+                get
+                {
+                    return _lastUpdated;
+                }
+                private set
+                {
+                    _lastUpdated = value;
+                }
+            }
+     
+            public void UpdateCustomer(string newName)
+            {
+                if (!newName.Equals(CustomerName))
+                {
+                    CustomerName = newName;
+                }
+            }
+     
+            public void Dispose()
+            {
+                //Do nothing
+            }
+        }
+    }
+```
+
 **Tartalom**
 - [Visual Studio](https://github.com/gabboraron/CSharp_alapok#visual-studio)
+- [Alap adattípusok]()
 - [`Hello World` program](https://github.com/gabboraron/CSharp_alapok#hello-world)
 - [I/O alapok](https://github.com/gabboraron/CSharp_alapok#io-alapok)
 - [Számok](https://github.com/gabboraron/CSharp_alapok#sz%C3%A1mok)
 - [Szövegek](https://github.com/gabboraron/CSharp_alapok#sz%C3%B6vegek)
+  - [Szöveges argumentumok]()
 - [Logikai változók és összehasonlítások](https://github.com/gabboraron/CSharp_alapok#logikai-v%C3%A1ltoz%C3%B3k-%C3%A9s-%C3%B6sszehasonl%C3%ADt%C3%A1sok)
+- [Típuskonverzió]()
+- [Tömbök, sorok]()
 - [`if` `then` `else`](https://github.com/gabboraron/CSharp_alapok#if-then-else)
 - [`switch`-`case`](https://github.com/gabboraron/CSharp_alapok#switch-case)
 - [Cilusok](https://github.com/gabboraron/CSharp_alapok#ciklusok)
@@ -16,6 +86,7 @@
   - [do-while](https://github.com/gabboraron/CSharp_alapok#do-while)
 - [y = x^2 grafikonja](https://github.com/gabboraron/CSharp_alapok#y--x2-grafikonja)  
 - [Példaprogram](https://github.com/gabboraron/CSharp_alapok#p%C3%A9ldaprogram) 
+- [Egyéb hasznos C# parancsok]()
 
 ## Visual Studio
 1. [Letöltés és telepítés](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=16)
@@ -24,6 +95,21 @@
 4. Sor sorszámozás bekapcsolása: https://docs.microsoft.com/en-us/visualstudio/ide/reference/how-to-display-line-numbers-in-the-editor?view=vs-2019
 
 -----
+## Alap adattípusok
+- `Integer`
+  - `Byte` 
+  - `Short` 
+  - `Int`
+  - `Long`
+- `Floating point`
+  - `Float`
+  - `Double`
+- `boolean`
+- `Classes`
+- `Interfaces`
+- `Arrays`
+- `Strings`
+bővebben: https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/integral-numeric-types
 
 ## `Hello World!`
 fájl: [Hello World.sln](https://github.com/gabboraron/CSharp_alapok/blob/3c1c9d903cdaf32805564a8f5751d21a8850a3be/Hello%20World.sln), [Hello World](https://github.com/gabboraron/CSharp_alapok/tree/3c1c9d903cdaf32805564a8f5751d21a8850a3be/Hello%20World)
@@ -68,6 +154,8 @@ namespace ConsoleBasedIO
 ```
 
 ## Számok
+> A `változónév++` és `++változónév` közti különbség az, hogy előbbi visszadja előbb a változó eredeti értékét, majd megnöveli az értéket, utóbbi viszont előbb növel, aztán adja vissza az értéket.
+
 fájl: [ProgramVariableNumbers](https://github.com/gabboraron/CSharp_alapok/tree/master/ProgramVariableNumbers)
 ```C#
             int number = 53;
@@ -142,10 +230,18 @@ fájl: [programVariableStrings](https://github.com/gabboraron/CSharp_alapok/tree
 
             Console.WriteLine($"{aChar},{bChar},{cChar},{dChar}");
 ```
+### Szöveges argumentumok
+```C#
+static void Main(string[] args)
+{
+}
+```
+A függvényenk átadható szöveges argumentumok.
+A `Console.Writeline(args[0])` használatához a menüsorból: `build` -> `build solution`(F6) ->  `project` click -> `open folder in file explorer` -> `project név` -> `build` -> `debug` -> `valami.exe` futtatása parancssorból és név után argumentum megadása, pl: `C:\User\valami\programnev.exe almafa` 
 
 ## Logikai változók és összehasonlítások
-`>`,`<`,`>=`,`<=`,`==`,`!=`
-
+- `>`,`<`,`>=`,`<=`,`==`,`!=`
+- `&&`, `||`, `^=`,`&=`
 fájl: [variableBooleanAndCompare](https://github.com/gabboraron/CSharp_alapok/tree/master/variableBooleanAndCompare)
 ```C#
             bool TrueValue = true;
@@ -169,8 +265,101 @@ fájl: [variableBooleanAndCompare](https://github.com/gabboraron/CSharp_alapok/t
             Console.WriteLine(compareValue);
 ```
 
+## Típuskonverzió és típuskényszerítés
+```C#
+int age = 100;
+string name = "Béla"
+age.ToString();
+```
+Ehez hasonlóan az `int`, `float`, `double`, `bool` típusokat is át lehet konvertálni `változónév.ToString();` használatával, vagy a `ToString()` függvénynek argumentumként átadva, pl: `ToString(7.0002);`. Ehhez hasonlóan léteznek a `Convert.ToInt();`, `Convert.ToDouble();` és hasonló függvények is.
+
+Ugyanakkor a Javahoz megszokottként lehet típuskényszerítést használni: 
+```C#
+double y = 55.089;
+int z = (int) y;
+```
+
+## Pointerek és mutatók
+- `sizeof()` - az adattípus méretét adja vissza
+- `typeof()` - az osztály típusát adja vissza
+- `&` - változó címre hivatkozás, pl: `&a;`
+- `*` - mutató a változóra, pl `*a;` egy mutatót hoz létre `a`-ra
+
+## Tömbök, sorok
+Egy üres `int` tömb definiálása, ahol `array` a tömb neve:
+```C#
+int[] array;
+```
+
+Egy 100 méretű `int` tömb definiálása, ahol `array` a tömb neve:
+```C#
+int[100] array;
+```
+
+másik módszer: 
+```C#
+public string[] Flavors = {"Vanilla", "Oreo", "AmeriShop Dream", "French Vanilla", "Mint", "Better Batter", "Rocky Road", "Mint Chocolate Chip", "Coffee", "Phish Food", "New York Super Fudge Chunk" };
+```
+Ugyanakkor a rendezés sem nehéz
+```C#
+    Array.Sort(Flavors);
+    Utility.AllValues(Flavors);
+    
+    //////
+    
+public static void AllValues(String[] _array)
+{
+    for (int i = _array.GetLowerBound(0); i <= _array.GetUpperBound(0); i++)
+    {
+        //space adds padding on the left side
+	Console.WriteLine(space + _array[i]);
+    }
+    Console.WriteLine();
+```
+Keresés: `Utility.Search(ARRAY, SEARCHTERM)`
+```C#
+    public static bool Search(string[] _array, string _string)
+    {
+        bool result = false;
+        int i = 0;
+        foreach (string s in _array)
+        {
+    	_array[i] = s.ToLower();
+    	i++;
+        }
+     
+        if (Array.Find(_array, element => element == _string) == _string)
+        {
+    	result = true;
+        }
+        else
+        {
+    	result = false;
+        }
+        return result;
+    }   
+```
+
+## Futtatási egységek:
+```C#
+{
+// ami a zárójelek között van :)
+// egy namspacen belül
+}
+```
+Ezeken belül használhatóak:
+- `break` - kilép az aktuális futtatási egységből
+- `continue` - kihagyja a hátralevő logikai részeket és a futtatási egység végére lép, csak ciklusokban használható, de azokon belül hasznos
+- `goto` ugrik a jelzett sorhoz <- FUCK YOU OBJEKTUMORIENTÁLTSÁG
+- `return` - visszatéréési érték
+- `throw` - kivételdobás
+
 ## `if` `then` `else`
 fájl: [payCheck](https://github.com/gabboraron/CSharp_alapok/tree/master/payCheck)
+
+> gyors `if` értékadás: `?:` használata: `if feltétel_igaz ? akkor_igaz_érték : egyébként_egyébérték`
+>
+> `is` ha egy iobjektum bizonyos típusú, pl: `if(ford is Car)
 ```C#
             if (double.TryParse(Console.ReadLine(), out hoursWorked))
             {
@@ -219,6 +408,35 @@ bővebben: https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/key
       }
 ```
 
+másik példa:
+```C#
+	    char ch;
+            Console.WriteLine("Enter a Character");
+            ch = Convert.ToChar(Console.ReadLine());
+ 
+            switch (Char.ToLower(ch))
+            {
+                case 'a':
+                    Console.WriteLine("Vowel");
+                    break;
+                case 'i':
+                    Console.WriteLine("Vowel");
+                    break;
+                case 'o':
+                    Console.WriteLine("Vowel");
+                    break;
+                case 'u':
+                    Console.WriteLine("Vowel");
+                    break;
+                case 'e':
+                    Console.WriteLine("Vowel");
+                    break;
+                default:
+                    Console.WriteLine("Not Vowel");
+                    break;
+            }
+```
+
 ## Ciklusok
 fájl:[looping](https://github.com/gabboraron/CSharp_alapok/tree/master/looping)
 ### For
@@ -229,6 +447,7 @@ fájl:[looping](https://github.com/gabboraron/CSharp_alapok/tree/master/looping)
             }
 ```
 ### While
+ha a felététel igaz akkor teljesül, elöl tesztel
 ```C#
             while (length > 0)
             {
@@ -236,13 +455,27 @@ fájl:[looping](https://github.com/gabboraron/CSharp_alapok/tree/master/looping)
                 length--;
             }
 ```
+```C#
+            int i = 5;
+            while (i<4)
+            {
+                Console.WriteLine("This is while loop ");
+                
+            }
+```
 ### do-While
+hátul tesztel, ha a feltétel igaz akkor folytatja az ismétlést
 ```C#
             do
             {
                 Console.Write(" :/ ");
                 length++;
             } while (length<5);
+```
+```C#
+            do {
+                Console.WriteLine("This is a do while loop ");
+            } while (i < 4);
 ```
 ### y = x^2 grafikonja
 > `-15` és `+15` között az x értéke a `y = x^2` egyenletre
@@ -293,6 +526,23 @@ kimenet:
 
 ```
 
-## Példaprogram
-fál: [kiosk](https://github.com/gabboraron/CSharp_alapok/tree/master/kiosk)
+## Példaprogramok
+### kiosk
+fájl: [kiosk](https://github.com/gabboraron/CSharp_alapok/tree/master/kiosk)
 > Egy egyszerű programocska, választó menükkel, stb.
+
+### dátumkezelő
+```C#
+            DateTime MyAge;
+            Console.WriteLine("Enter Your Age");
+            MyAge = Convert.ToDateTime(Console.ReadLine());
+            int years = Convert.ToInt32((DateTime.Now.Subtract(MyAge).TotalDays)) / 360;
+ 
+            Console.WriteLine("Your Age is " + years + "Years");
+            Console.ReadKey();
+```
+
+## Egyéb hasznos C# parancsok
+- `Console.Readkey();` - vár egy billentyűá leütésre és azt adja vissza, hasznos lehet program végére is
+
+
