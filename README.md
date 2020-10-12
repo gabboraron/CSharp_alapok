@@ -69,15 +69,16 @@
 
 **Tartalom**
 - [Visual Studio](https://github.com/gabboraron/CSharp_alapok#visual-studio)
-- [Alap adattípusok]()
+- [Alap adattípusok](https://github.com/gabboraron/CSharp_alapok#alap-adatt%C3%ADpusok)
 - [`Hello World` program](https://github.com/gabboraron/CSharp_alapok#hello-world)
 - [I/O alapok](https://github.com/gabboraron/CSharp_alapok#io-alapok)
 - [Számok](https://github.com/gabboraron/CSharp_alapok#sz%C3%A1mok)
 - [Szövegek](https://github.com/gabboraron/CSharp_alapok#sz%C3%B6vegek)
-  - [Szöveges argumentumok]()
+  - [Szöveges argumentumok](https://github.com/gabboraron/CSharp_alapok#sz%C3%B6veges-argumentumok)
 - [Logikai változók és összehasonlítások](https://github.com/gabboraron/CSharp_alapok#logikai-v%C3%A1ltoz%C3%B3k-%C3%A9s-%C3%B6sszehasonl%C3%ADt%C3%A1sok)
-- [Típuskonverzió]()
-- [Tömbök, sorok]()
+- [Típuskonverzió](https://github.com/gabboraron/CSharp_alapok#t%C3%ADpuskonverzi%C3%B3-%C3%A9s-t%C3%ADpusk%C3%A9nyszer%C3%ADt%C3%A9s)
+- [pointerek, mutatók](https://github.com/gabboraron/CSharp_alapok#pointerek-%C3%A9s-mutat%C3%B3k)
+- [Tömbök, sorok](https://github.com/gabboraron/CSharp_alapok#t%C3%B6mb%C3%B6k-sorok)
 - [`if` `then` `else`](https://github.com/gabboraron/CSharp_alapok#if-then-else)
 - [`switch`-`case`](https://github.com/gabboraron/CSharp_alapok#switch-case)
 - [Cilusok](https://github.com/gabboraron/CSharp_alapok#ciklusok)
@@ -86,7 +87,8 @@
   - [do-while](https://github.com/gabboraron/CSharp_alapok#do-while)
 - [y = x^2 grafikonja](https://github.com/gabboraron/CSharp_alapok#y--x2-grafikonja)  
 - [Példaprogram](https://github.com/gabboraron/CSharp_alapok#p%C3%A9ldaprogram) 
-- [Egyéb hasznos C# parancsok]()
+- [Egyéb hasznos C# parancsok](https://github.com/gabboraron/CSharp_alapok#egy%C3%A9b-hasznos-c-parancsok)
+- [GUI programozás](https://github.com/gabboraron/CSharp_alapok/blob/master/README.md#gui-programok)
 
 ## Visual Studio
 1. [Letöltés és telepítés](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=16)
