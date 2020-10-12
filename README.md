@@ -545,4 +545,6 @@ fájl: [kiosk](https://github.com/gabboraron/CSharp_alapok/tree/master/kiosk)
 ## Egyéb hasznos C# parancsok
 - `Console.Readkey();` - vár egy billentyűá leütésre és azt adja vissza, hasznos lehet program végére is
 
-
+## GUI programok
+- egyszerű GUI példa: https://github.com/gabboraron/CSharp_alapok/tree/master/GUI-apps/first-v2/first-v2
+- egyszerű webes program példa: https://github.com/gabboraron/CSharp_alapok/tree/master/GUI-apps/first-v2/first_web_app/first_web_app
