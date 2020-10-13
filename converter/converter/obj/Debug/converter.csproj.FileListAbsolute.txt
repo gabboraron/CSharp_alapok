@@ -1,0 +1,10 @@
+C:\Users\Sándor\Documents\CSharp\GUI-apps\converter\converter\bin\Debug\converter.exe.config
+C:\Users\Sándor\Documents\CSharp\GUI-apps\converter\converter\bin\Debug\converter.exe
+C:\Users\Sándor\Documents\CSharp\GUI-apps\converter\converter\bin\Debug\converter.pdb
+C:\Users\Sándor\Documents\CSharp\GUI-apps\converter\converter\obj\Debug\converter.csprojAssemblyReference.cache
+C:\Users\Sándor\Documents\CSharp\GUI-apps\converter\converter\obj\Debug\converter.Form1.resources
+C:\Users\Sándor\Documents\CSharp\GUI-apps\converter\converter\obj\Debug\converter.Properties.Resources.resources
+C:\Users\Sándor\Documents\CSharp\GUI-apps\converter\converter\obj\Debug\converter.csproj.GenerateResource.cache
+C:\Users\Sándor\Documents\CSharp\GUI-apps\converter\converter\obj\Debug\converter.csproj.CoreCompileInputs.cache
+C:\Users\Sándor\Documents\CSharp\GUI-apps\converter\converter\obj\Debug\converter.exe
+C:\Users\Sándor\Documents\CSharp\GUI-apps\converter\converter\obj\Debug\converter.pdb
