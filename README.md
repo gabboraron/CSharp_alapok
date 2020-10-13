@@ -551,3 +551,5 @@ fájl: [kiosk](https://github.com/gabboraron/CSharp_alapok/tree/master/kiosk)
 - egyszerű GUI példa: https://github.com/gabboraron/CSharp_alapok/tree/master/GUI-apps/first-v2/first-v2
 - egyszerű webes program példa: https://github.com/gabboraron/CSharp_alapok/tree/master/GUI-apps/first-v2/first_web_app/first_web_app
 - egy alap web böngésző Internet Explorer alapokon, `web_browser\web_browser\bin\Debug\web_browser.exe`-vel futtatható: https://github.com/gabboraron/CSharp_alapok/tree/master/GUI-apps/first-v2/web_browser
+- digitális óra: https://github.com/gabboraron/CSharp_alapok/tree/master/GUI-apps/first-v2/digitalClock
+- egy centiliter - liter konvertáló GUI alkalmazás: https://github.com/gabboraron/CSharp_alapok/tree/master/converter
