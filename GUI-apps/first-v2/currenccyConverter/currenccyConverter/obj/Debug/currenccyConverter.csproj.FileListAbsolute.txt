@@ -1,0 +1,10 @@
+C:\Users\Sándor\Documents\CSharp\GUI-apps\currenccyConverter\currenccyConverter\bin\Debug\currenccyConverter.exe.config
+C:\Users\Sándor\Documents\CSharp\GUI-apps\currenccyConverter\currenccyConverter\bin\Debug\currenccyConverter.exe
+C:\Users\Sándor\Documents\CSharp\GUI-apps\currenccyConverter\currenccyConverter\bin\Debug\currenccyConverter.pdb
+C:\Users\Sándor\Documents\CSharp\GUI-apps\currenccyConverter\currenccyConverter\obj\Debug\currenccyConverter.csprojAssemblyReference.cache
+C:\Users\Sándor\Documents\CSharp\GUI-apps\currenccyConverter\currenccyConverter\obj\Debug\currenccyConverter.Form1.resources
+C:\Users\Sándor\Documents\CSharp\GUI-apps\currenccyConverter\currenccyConverter\obj\Debug\currenccyConverter.Properties.Resources.resources
+C:\Users\Sándor\Documents\CSharp\GUI-apps\currenccyConverter\currenccyConverter\obj\Debug\currenccyConverter.csproj.GenerateResource.cache
+C:\Users\Sándor\Documents\CSharp\GUI-apps\currenccyConverter\currenccyConverter\obj\Debug\currenccyConverter.csproj.CoreCompileInputs.cache
+C:\Users\Sándor\Documents\CSharp\GUI-apps\currenccyConverter\currenccyConverter\obj\Debug\currenccyConverter.exe
+C:\Users\Sándor\Documents\CSharp\GUI-apps\currenccyConverter\currenccyConverter\obj\Debug\currenccyConverter.pdb
