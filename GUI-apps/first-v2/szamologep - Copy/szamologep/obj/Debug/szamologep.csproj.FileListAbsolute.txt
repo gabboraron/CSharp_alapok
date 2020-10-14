@@ -1,0 +1,20 @@
+C:\Users\Sándor\Documents\CSharp\GUI-apps\szamologep\szamologep\bin\Debug\szamologep.exe.config
+C:\Users\Sándor\Documents\CSharp\GUI-apps\szamologep\szamologep\bin\Debug\szamologep.exe
+C:\Users\Sándor\Documents\CSharp\GUI-apps\szamologep\szamologep\bin\Debug\szamologep.pdb
+C:\Users\Sándor\Documents\CSharp\GUI-apps\szamologep\szamologep\obj\Debug\szamologep.csprojAssemblyReference.cache
+C:\Users\Sándor\Documents\CSharp\GUI-apps\szamologep\szamologep\obj\Debug\szamologep.Properties.Resources.resources
+C:\Users\Sándor\Documents\CSharp\GUI-apps\szamologep\szamologep\obj\Debug\szamologep.csproj.GenerateResource.cache
+C:\Users\Sándor\Documents\CSharp\GUI-apps\szamologep\szamologep\obj\Debug\szamologep.csproj.CoreCompileInputs.cache
+C:\Users\Sándor\Documents\CSharp\GUI-apps\szamologep\szamologep\obj\Debug\szamologep.exe
+C:\Users\Sándor\Documents\CSharp\GUI-apps\szamologep\szamologep\obj\Debug\szamologep.pdb
+C:\Users\Sándor\Documents\CSharp\GUI-apps\szamologep\szamologep\obj\Debug\szamologep.btnSeven.resources
+C:\Users\Sándor\Documents\CSharp\GUI-apps\szamologep - Copy\szamologep\bin\Debug\szamologep.exe.config
+C:\Users\Sándor\Documents\CSharp\GUI-apps\szamologep - Copy\szamologep\bin\Debug\szamologep.exe
+C:\Users\Sándor\Documents\CSharp\GUI-apps\szamologep - Copy\szamologep\bin\Debug\szamologep.pdb
+C:\Users\Sándor\Documents\CSharp\GUI-apps\szamologep - Copy\szamologep\obj\Debug\szamologep.csprojAssemblyReference.cache
+C:\Users\Sándor\Documents\CSharp\GUI-apps\szamologep - Copy\szamologep\obj\Debug\szamologep.btnSeven.resources
+C:\Users\Sándor\Documents\CSharp\GUI-apps\szamologep - Copy\szamologep\obj\Debug\szamologep.Properties.Resources.resources
+C:\Users\Sándor\Documents\CSharp\GUI-apps\szamologep - Copy\szamologep\obj\Debug\szamologep.csproj.GenerateResource.cache
+C:\Users\Sándor\Documents\CSharp\GUI-apps\szamologep - Copy\szamologep\obj\Debug\szamologep.csproj.CoreCompileInputs.cache
+C:\Users\Sándor\Documents\CSharp\GUI-apps\szamologep - Copy\szamologep\obj\Debug\szamologep.exe
+C:\Users\Sándor\Documents\CSharp\GUI-apps\szamologep - Copy\szamologep\obj\Debug\szamologep.pdb
