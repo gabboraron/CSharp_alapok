@@ -1,0 +1,10 @@
+C:\Users\Sándor\Documents\CSharp\GUI-apps\map\map\bin\Debug\map.exe.config
+C:\Users\Sándor\Documents\CSharp\GUI-apps\map\map\bin\Debug\map.exe
+C:\Users\Sándor\Documents\CSharp\GUI-apps\map\map\bin\Debug\map.pdb
+C:\Users\Sándor\Documents\CSharp\GUI-apps\map\map\obj\Debug\map.Form1.resources
+C:\Users\Sándor\Documents\CSharp\GUI-apps\map\map\obj\Debug\map.Properties.Resources.resources
+C:\Users\Sándor\Documents\CSharp\GUI-apps\map\map\obj\Debug\map.csproj.GenerateResource.cache
+C:\Users\Sándor\Documents\CSharp\GUI-apps\map\map\obj\Debug\map.csproj.CoreCompileInputs.cache
+C:\Users\Sándor\Documents\CSharp\GUI-apps\map\map\obj\Debug\map.exe
+C:\Users\Sándor\Documents\CSharp\GUI-apps\map\map\obj\Debug\map.pdb
+C:\Users\Sándor\Documents\CSharp\GUI-apps\map\map\obj\Debug\map.csprojAssemblyReference.cache
