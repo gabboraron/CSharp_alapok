@@ -553,3 +553,6 @@ fájl: [kiosk](https://github.com/gabboraron/CSharp_alapok/tree/master/kiosk)
 - egy alap web böngésző Internet Explorer alapokon, `web_browser\web_browser\bin\Debug\web_browser.exe`-vel futtatható: https://github.com/gabboraron/CSharp_alapok/tree/master/GUI-apps/first-v2/web_browser
 - digitális óra: https://github.com/gabboraron/CSharp_alapok/tree/master/GUI-apps/first-v2/digitalClock
 - egy centiliter - liter konvertáló GUI alkalmazás: https://github.com/gabboraron/CSharp_alapok/tree/master/converter
+- számológép program: https://github.com/gabboraron/CSharp_alapok/tree/master/GUI-apps/first-v2/szamologep
+- matematikai műveletek végrehajtására program: https://github.com/gabboraron/CSharp_alapok/tree/master/GUI-apps/first-v2/szamologep%20-%20Copy
+- térkép: https://github.com/gabboraron/CSharp_alapok/tree/master/GUI-apps/first-v2/map
