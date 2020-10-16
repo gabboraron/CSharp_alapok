@@ -556,3 +556,6 @@ fájl: [kiosk](https://github.com/gabboraron/CSharp_alapok/tree/master/kiosk)
 - számológép program: https://github.com/gabboraron/CSharp_alapok/tree/master/GUI-apps/first-v2/szamologep
 - matematikai műveletek végrehajtására program: https://github.com/gabboraron/CSharp_alapok/tree/master/GUI-apps/first-v2/szamologep%20-%20Copy
 - térkép: https://github.com/gabboraron/CSharp_alapok/tree/master/GUI-apps/first-v2/map
+- paint, fájlkezelés: https://github.com/gabboraron/CSharp_alapok/tree/master/GUI-apps/first-v2/paint
+- ping-pong, programozott kilépés: https://github.com/gabboraron/CSharp_alapok/tree/master/GUI-apps/first-v2/ping-pong
+- zenelejátszó, fájlkezelés, windows elemek kezelése: https://github.com/gabboraron/CSharp_alapok/tree/master/GUI-apps/first-v2/Zenelejatszo
