@@ -1,0 +1,15 @@
+C:\Users\Sándor\Documents\CSharp\GUI-apps\Zenelejatszo\Zenelejatszo\bin\Debug\Zenelejatszo.exe.config
+C:\Users\Sándor\Documents\CSharp\GUI-apps\Zenelejatszo\Zenelejatszo\bin\Debug\Zenelejatszo.exe
+C:\Users\Sándor\Documents\CSharp\GUI-apps\Zenelejatszo\Zenelejatszo\bin\Debug\Zenelejatszo.pdb
+C:\Users\Sándor\Documents\CSharp\GUI-apps\Zenelejatszo\Zenelejatszo\obj\Debug\Zenelejatszo.csprojAssemblyReference.cache
+C:\Users\Sándor\Documents\CSharp\GUI-apps\Zenelejatszo\Zenelejatszo\obj\Debug\Zenelejatszo.Form1.resources
+C:\Users\Sándor\Documents\CSharp\GUI-apps\Zenelejatszo\Zenelejatszo\obj\Debug\Zenelejatszo.Properties.Resources.resources
+C:\Users\Sándor\Documents\CSharp\GUI-apps\Zenelejatszo\Zenelejatszo\obj\Debug\Zenelejatszo.csproj.GenerateResource.cache
+C:\Users\Sándor\Documents\CSharp\GUI-apps\Zenelejatszo\Zenelejatszo\obj\Debug\Zenelejatszo.csproj.CoreCompileInputs.cache
+C:\Users\Sándor\Documents\CSharp\GUI-apps\Zenelejatszo\Zenelejatszo\obj\Debug\Zenelejatszo.exe
+C:\Users\Sándor\Documents\CSharp\GUI-apps\Zenelejatszo\Zenelejatszo\obj\Debug\Zenelejatszo.pdb
+C:\Users\Sándor\Documents\CSharp\GUI-apps\Zenelejatszo\Zenelejatszo\bin\Debug\Interop.WMPLib.dll
+C:\Users\Sándor\Documents\CSharp\GUI-apps\Zenelejatszo\Zenelejatszo\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Sándor\Documents\CSharp\GUI-apps\Zenelejatszo\Zenelejatszo\obj\Debug\Interop.WMPLib.dll
+C:\Users\Sándor\Documents\CSharp\GUI-apps\Zenelejatszo\Zenelejatszo\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Sándor\Documents\CSharp\GUI-apps\Zenelejatszo\Zenelejatszo\obj\Debug\Zenelejatszo.csproj.ResolveComReference.cache
